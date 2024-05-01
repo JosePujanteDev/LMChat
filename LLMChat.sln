@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLMChat", "LLMChat.csproj", "{A08F4CC8-DC05-4082-9A85-D9380C1163A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08F4CC8-DC05-4082-9A85-D9380C1163A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08F4CC8-DC05-4082-9A85-D9380C1163A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08F4CC8-DC05-4082-9A85-D9380C1163A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08F4CC8-DC05-4082-9A85-D9380C1163A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422962F8-C13E-4101-86A0-AEB2CD6D5A99}
+	EndGlobalSection
+EndGlobal
