@@ -24,3 +24,8 @@ D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\ref\LLMChat.dll
 D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\Themes\ChatItem.baml
 D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\Themes\MessageBox.baml
 D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\Themes\StylishScrollBar.baml
+D:\Programacion\CSharp\LLMChat\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Programacion\CSharp\LLMChat\bin\Debug\net8.0-windows\RestSharp.dll
+D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\LLMChat.csproj.AssemblyReference.cache
+D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\LLMChat.sourcelink.json
+D:\Programacion\CSharp\LLMChat\obj\Debug\net8.0-windows\LLMChat.csproj.Up2Date
