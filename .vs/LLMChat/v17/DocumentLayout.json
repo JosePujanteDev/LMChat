@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Programacion\\CSharp\\LLMChat\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|d:\\programacion\\csharp\\llmchat\\mvvm\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|solutionrelative:mvvm\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|d:\\programacion\\csharp\\llmchat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|solutionrelative:mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|d:\\programacion\\csharp\\llmchat\\mvvm\\model\\llm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A08F4CC8-DC05-4082-9A85-D9380C1163A3}|LLMChat.csproj|solutionrelative:mvvm\\model\\llm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,48 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LLM.cs",
-              "DocumentMoniker": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\Model\\LLM.cs",
-              "RelativeDocumentMoniker": "MVVM\\Model\\LLM.cs",
-              "ToolTip": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\Model\\LLM.cs",
-              "RelativeToolTip": "MVVM\\Model\\LLM.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAYwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T10:18:04.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindowVM.cs",
-              "DocumentMoniker": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\ViewModel\\MainWindowVM.cs",
-              "RelativeDocumentMoniker": "MVVM\\ViewModel\\MainWindowVM.cs",
-              "ToolTip": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\ViewModel\\MainWindowVM.cs",
-              "RelativeToolTip": "MVVM\\ViewModel\\MainWindowVM.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAAIIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T17:36:21.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "D:\\Programacion\\CSharp\\LLMChat\\MVVM\\View\\MainWindow.xaml",
-              "RelativeToolTip": "MVVM\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-01T16:34:32.027Z",
-              "EditorCaption": ""
             }
           ]
         }

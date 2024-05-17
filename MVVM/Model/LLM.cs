@@ -23,7 +23,7 @@ namespace LLMChat.MVVM.Model
                         new { role = "system", content = "Always answer in Spanish." },
                         new { role = "user", content = message }
                     },
-                    temperature = 0.7
+                    temperature = 0.1
                 });
 
                 var response = await RestClientInstance.ExecuteAsync(request);
